@@ -1,6 +1,4 @@
-## **README.md**
-
-### **Movie Recommendation System Using Collaborative Filtering**
+## **Movie Recommendation System Using Collaborative Filtering**
 
 #### **Introduction**
 This project aims to build a movie recommendation system using collaborative filtering techniques. The goal is to recommend personalized movies to users based on their past ratings. The project uses the MovieLens dataset, which contains user ratings for various movies.
